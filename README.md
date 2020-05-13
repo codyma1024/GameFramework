@@ -1,5 +1,5 @@
 
-# C++ moderm template [![build](https://github.com/codyma1024/GameFramework/workflows/build/badge.svg)](https://github.com/codyma1024/GameFramework/actions?query=workflow%3Abuild) [![Build Status](https://travis-ci.com/codyma1024/GameFramework.svg?branch=master)](https://travis-ci.com/codyma1024/GameFramework) [![codecov](https://codecov.io/gh/codyma1024/GameFramework/branch/master/graph/badge.svg)](https://codecov.io/gh/codyma1024/GameFramework) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/29a8d925ee844dc99d5d4c2433b31bc6)](https://www.codacy.com/manual/codyma1024/GameFramework?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=codyma1024/GameFramework&amp;utm_campaign=Badge_Grade) [![Documentation Status](https://readthedocs.org/projects/cpp-template/badge/?version=latest)](https://cpp-template.readthedocs.io/en/latest/?badge=latest)
+# C++ moderm template [![build](https://github.com/codyma1024/GameFramework/workflows/build/badge.svg)](https://github.com/codyma1024/GameFramework/actions?query=workflow%3Abuild) [![Build Status](https://travis-ci.com/codyma1024/GameFramework.svg?branch=master)](https://travis-ci.com/codyma1024/GameFramework) [![codecov](https://codecov.io/gh/codyma1024/GameFramework/branch/master/graph/badge.svg)](https://codecov.io/gh/codyma1024/GameFramework) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/29a8d925ee844dc99d5d4c2433b31bc6)](https://www.codacy.com/manual/codyma1024/GameFramework?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=codyma1024/GameFramework&amp;utm_campaign=Badge_Grade) [![Documentation Status](https://readthedocs.org/projects/gameframework/badge/?version=latest)](https://gameframework.readthedocs.io/zh/latest/?badge=latest)
 
 This is a template to setting up a new C++ project, usually create a new C++ project requires a significant amount of preparation and boilerplate code, even more so for modern C++ projects with tests, executables and continuous integration. This template should help reduce the work required to setup up a modern C++ project.
 
@@ -24,7 +24,7 @@ This is a template to setting up a new C++ project, usually create a new C++ pro
 When starting a new project, you probably don't want the history of this repository. To start fresh you can use the setup script as follows:
 
 ```shell
-$ git clone https://github.com/tweether/cpp-project && cd cpp-project
+$ git clone https://github.com/codyma1024/GameFramework && cd GameFramework
 $ ./setup.sh
 ```
 
@@ -40,7 +40,7 @@ $ cmake --build .
 
 ## Learning
 
-GameMesh has the most extensive and thorough [documentation](https://cpp-template.readthedocs.io/en/latest/), making it a breeze to get started with the framework.
+GameMesh has the most extensive and thorough [documentation](https://gameframework.readthedocs.io/en/latest/), making it a breeze to get started with the framework.
 
 #### Built-in server
 
